@@ -1,0 +1,8 @@
+{
+  "name": "rtl",
+  "version": "0.1.0",
+  "description": "Draws Persian/Arabic text in Claude's replies joined and in right-to-left order on terminals that do no bidi or shaping. Terminal only; the transcript is untouched. Toggle with /rtl on|off.",
+  "author": {
+    "name": "AliakbarNateghi"
+  }
+}

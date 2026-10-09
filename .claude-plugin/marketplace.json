@@ -1,0 +1,13 @@
+{
+  "name": "cc-rtl",
+  "owner": {
+    "name": "AliakbarNateghi"
+  },
+  "plugins": [
+    {
+      "name": "rtl",
+      "source": "./"
+    }
+  ],
+  "description": "Persian/Arabic RTL shaping for Claude Code terminal replies"
+}
